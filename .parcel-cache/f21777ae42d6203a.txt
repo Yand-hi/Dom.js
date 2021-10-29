@@ -1,0 +1,11 @@
+10
+33E:\HTML+CSS+JavaScript\dom-1\dist132799831194387938 1
+32E:\HTML+CSS+JavaScript\dom-1\src132798951651816235 1
+55E:\HTML+CSS+JavaScript\dom-1\dist\index.26a40173.js.map132799831194377958 0
+39E:\HTML+CSS+JavaScript\dom-1\src\dom.js132799831175877186 0
+43E:\HTML+CSS+JavaScript\dom-1\src\index.html132799829270685435 0
+40E:\HTML+CSS+JavaScript\dom-1\src\main.js132799828615977173 0
+51E:\HTML+CSS+JavaScript\dom-1\dist\index.26a40173.js132799831194367981 0
+55E:\HTML+CSS+JavaScript\dom-1\dist\index.65c7a1e5.js.map132799831194258316 0
+51E:\HTML+CSS+JavaScript\dom-1\dist\index.65c7a1e5.js132799831194258316 0
+44E:\HTML+CSS+JavaScript\dom-1\dist\index.html132799831194357985 0
